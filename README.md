@@ -1,4 +1,5 @@
 Introduction
+
 Welcome to the Movie Recommender System! This project leverages the advanced capabilities of Google's Gemini LLM to provide personalized movie recommendations based on user input. Whether you're in the mood for a specific 
 genre or looking for movies similar to a favorite title, our system is designed to help you find the perfect film.
 
