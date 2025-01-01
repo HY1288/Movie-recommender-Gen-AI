@@ -26,7 +26,7 @@ template= PromptTemplate(input_variable=['user_input'], template=demo_template)
 
 # Initialize the Gemini Pro Model
 
-llms= ChatGoogleGenerativeAI(model='gemini-pro', api_key="AIzaSyD8d1DR8YePT8SkZx8xMhA5W-7TU_tYu5k")
+llms= ChatGoogleGenerativeAI(model='gemini-pro', api_key="AIzaSyAuOv1wKhVj_iJzQa5sB9Fp2NOggn1Bvn0")
 
 #generate the recommendations when the user provide input
 if user_input:
